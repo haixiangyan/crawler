@@ -1,6 +1,6 @@
 # crawler
 
-使用 [cheerio]() + [axios]() 实现的小爬虫。
+使用 [cheerio](https://cheerio.js.org/) + [axios](https://github.com/axios/axios) 实现的小爬虫。
 
 支持：
 * 随机睡眠
